@@ -39,8 +39,6 @@ It does not contain:
 - [ ] Contract/document lifecycle expansion
 - [ ] Extended office automation
 - [ ] Pilot onboarding flow
-## Screenshots
-Selected product snapshots will be added here.
 ## Contact
 Open to pilot partnerships and professional collaboration inquiries.
 ---
